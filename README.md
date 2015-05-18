@@ -1,9 +1,9 @@
 # HackBulgaria-application
 
-## Идея за start up:
+### Идея за start up:
 Приложение, което да обединява хората в планината. Независимо дали имат нужда от спешна помощ , изгубили са се от пътеките, или са видели друг в беда, приложението свързва всички хора в района, които чрез теглене на приложението се предвръщат в доброволци.
 
-След повече от година участие в различни курсове в Telerik Academy, и след едногодишната им пълна програма за софтуерни инженери имам опит в различни платформи и технологии. От година и половина работя в компания, която се занимава с уеб базирани банкови системи, т.н електронно банкиране. По-долу може да видите част от проектите, в които съм взимала пълно или частично участие:
+След участие в различни курсове и след завършване на едногодишната програма за софтуерни инженери в Telerik Academy, имам опит в различни платформи и технологии. През последната година и половина работя в компания, която се занимава с уеб базирани банкови системи, т.н електронно банкиране. По-долу може да видите част от проектите, в които съм взимала пълно или частично участие:
 
 **Online Banking System**
 
@@ -12,12 +12,14 @@ C#, .NET framework, ASP.NET MVC4, Oracle Database, MS SQL Server Database, jQuer
 
 *[code here](http://www.unicreditbulbank.bg/en/index.htm)*
 
+
 **Pixie Weather Forecast**
 
 An innovative platform that helps people gain information about weather from different weathermen but from one place. Every user can vote for certain weatherman or his forecasts. The administration part has control over the forecasts and partially on the profiles of the users and the weathermen.
 C#, .NET framework, ASP.NET MVC 5, Repository pattern, Unit of work pattern, Kendo UI widgets, MS SQL Server, Entity Framework, MVC Areas, Twitter Bootstrap, ASP Identity System, Ajax forms
 
 *[code here](https://pixiesweatherforecast.codeplex.com/)*
+
 
 **Eventsbook**
 
@@ -26,12 +28,14 @@ C#, .NET framework, ASP.NET WebAPI, RESTful web services, MS SQL Server, HTML5, 
 
 *[code here](http://poloniumeventsbook.apphb.com)*
 
+
 **Not Just Sokoban**
 
 Console interpretation of the Sokoban game. The code is written with the main principles of OOP
 C#, .NET framework, Object-oriented programming
 
 *[code here](https://sokobanoop.codeplex.com/)*
+
 
 **Pineapple Xonix**
 
@@ -40,12 +44,14 @@ HTML5, CSS3, JavaScript, jQuery, Object-oriented programming design, Unit-testin
 
 *[code here](http://code.google.com/p/pineappleteam/)*
 
+
 **News Blog**
 
 Application for publishing, commenting and voting for different articles. Its main task is to use different web services.
 C#, .NET framework, ASP.NET WebAPI, RESTful endpoints with user login/register, MS SQL Server, MVVM design pattern
 
 *[code here](https://github.com/alexisss/NewsBlogWebApi)*
+
 
 **Spritmonitor**
 
