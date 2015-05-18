@@ -5,14 +5,14 @@
 
 След повече от година участие в различни курсове в Telerik Academy, и след едногодишната им пълна програма за софтуерни инженери имам опит в различни платформи и технологии. От година и половина работя в компания, която се занимава с уеб базирани банкови системи, т.н електронно банкиране. По-долу може да видите част от проектите, в които съм взимала пълно или частично участие:
 
-** Online Banking System**
+**Online Banking System**
 
 Online banking system, representing safe and reliable software solutions for the South-East European branch of UniCredit Bank and especially the Bulgarian branch – UniCredit Bulbank.
 C#, .NET framework, ASP.NET MVC4, Oracle Database, MS SQL Server Database, jQuery, knockout.js, Javascript, Design Patterns, XSLT, Web services, Visual Studio 2012
 
 *[code here](http://www.unicreditbulbank.bg/en/index.htm)*
 
-** Pixie Weather Forecast**
+**Pixie Weather Forecast**
 
 An innovative platform that helps people gain information about weather from different weathermen but from one place. Every user can vote for certain weatherman or his forecasts. The administration part has control over the forecasts and partially on the profiles of the users and the weathermen.
 C#, .NET framework, ASP.NET MVC 5, Repository pattern, Unit of work pattern, Kendo UI widgets, MS SQL Server, Entity Framework, MVC Areas, Twitter Bootstrap, ASP Identity System, Ajax forms
